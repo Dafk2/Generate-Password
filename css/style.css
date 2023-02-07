@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(to right, #29ffc6, #20e3b2, #0cebeb); 
+}
+
+#container-form {
+  border-radius: 5%;
+}
+
+.badge {
+  font-size: 25px;
+}
